@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **pranavgujar2901@gmail.com**
 
+- 🌐 Read about me at **https://pranavg2901.github.io/pranav-gujar-portfolio/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gujarpranav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gujarpranav" height="30" width="40" /></a>
