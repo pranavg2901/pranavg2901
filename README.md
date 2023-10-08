@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">A passionate Python developer & Data Analyst from India</h3>
+<h3 align="center">A passionate Python developer & Cloud Application Developer from India</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django & AWS**
 
-- 💬 Ask me about **Python, MYSQL, MS Excel**
+- 💬 Ask me about **Python, MYSQL, Django, MS Power BI, AWS**
 
 - 📫 How to reach me **pranavgujar2901@gmail.com**
 
