@@ -23,20 +23,4 @@
 
 ---
 
-### 📫 Connect With Me
-<p align="left">
-<a href="https://twitter.com/gujarpranav" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/pranav-gujar-275271228/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/gujarpranav2901" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-</a>
-</p>
-
----
-
-📧 **Email:** pranavgujar2901@gmail.com  
-🌐 **Portfolio:** https://pranavg2901.github.io/pranav-gujar-portfolio/  
+📧 **Email:** pranavgujar2901@gmail.com
