@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Gujar</h1>
-<h3 align="center">Full-Stack Python Developer | Cloud & Backend Specialist</h3>
+<h3 align="center">Full-Stack Python Developer | AI & Data Enthusiast</h3>
 
 <p align="center">
 🚀 Nearly 2 years of experience building scalable web applications, APIs, and cloud deployments
