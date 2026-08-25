@@ -5,11 +5,6 @@
 🚀 2.5+ years building and operating production Python systems — from multi-tenant SaaS platforms to LLM/RAG pipelines that run entirely on CPU
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pranavpgujar/">LinkedIn</a> •
-  <a href="mailto:pranavgujar2901@gmail.com">Email</a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
