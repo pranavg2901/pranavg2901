@@ -7,8 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranavpgujar/">LinkedIn</a> •
-  <a href="mailto:pranavgujar2901@gmail.com">Email</a> •
-  <a href="https://demo.eigenn.in">Eigenn — Live Demo</a>
+  <a href="mailto:pranavgujar2901@gmail.com">Email</a>
 </p>
 
 ---
