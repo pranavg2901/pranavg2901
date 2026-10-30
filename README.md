@@ -21,7 +21,7 @@
 ### 🚀 Featured Projects
 
 | Project | What it is | Tech |
-|---|---|---|
+|----|---|---|
 | **[Eigenn](https://demo.eigenn.in)** | AI evaluation platform for competitive-exam institutes — 17-node LangGraph pipeline, 120K-chunk RAG system running fully on CPU, 150+ automated tests | FastAPI, PostgreSQL, Redis, RabbitMQ, Temporal, LangGraph, ONNX, React |
 | **[Algo Py](https://algo-trading-lq8e.onrender.com)** | Market screening engine — ~22,000 NSE/BSE instruments served in under 0.3s on a 512MB host, 15 backtested strategies | Python, Django, Pytest, GitHub Actions, Playwright |
 | **[DMFU](https://play.google.com/store/apps/details?id=com.dmfu_mess_manager)** | Mess-management app shipped to the Google Play Store — full lifecycle from Figma design to staged release | Python, MongoDB, Linux, Shell |
