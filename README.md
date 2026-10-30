@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer — Backend Systems & Applied AI</h3>
 
 <p align="center">
-🚀 2.5+ years building and operating production Python systems — from multi-tenant SaaS platforms to LLM/RAG pipelines that run entirely on CPU
+🚀 2.8 years building and operating production Python systems — from multi-tenant SaaS platforms to LLM/RAG pipelines that run entirely on CPU
 </p>
 
 ---
