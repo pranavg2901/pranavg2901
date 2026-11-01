@@ -5,10 +5,6 @@
 🚀 Building and operating production Python systems since February 2024 — from multi-tenant SaaS platforms to LLM/RAG pipelines that run entirely on CPU
 </p>
 
-<p align="center">
-<a href="https://pranavg2901.github.io"><b>pranavg2901.github.io</b></a> · case studies, with the numbers and the mistakes
-</p>
-
 ---
 
 ### 👨‍💻 About Me
